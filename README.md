@@ -2,7 +2,15 @@
 
 👀 I’m interested in everything that relates to tecnology.
 
-## 
+## 🧠 What i know:
+
+- HTML5
+- CSS3
+- Wordpress
+- Xenforo
+- Image Capturing & Editing
+- Video Recording & Editing
+- Audio Recording & Editing
 
 ## 🌱 I’m currently learning:
 
