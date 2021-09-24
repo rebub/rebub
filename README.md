@@ -1,9 +1,10 @@
 # 👋 Hi, I’m Sandro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 
+- 👀 I’m interested in everything that relates to tecnology.
 
+## 🌱 I’m currently learning:
+- JS
+- Electron
 
 ## 📫 How to reach me:
 
